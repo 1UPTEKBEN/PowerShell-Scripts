@@ -1,3 +1,5 @@
+## CHECK ALL SCRIPTS BEFORE RUNNING THEM, YOU'RE RUNNING THESE AT YOUR OWN RISK.
+
 ## FoldersOver50MB.ps1
 For doing Drive Audits Over 50MB, Handy for OES Servers
 
